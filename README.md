@@ -17,7 +17,7 @@ You can add tasks, delete tasks, and manage them interactively with smooth anima
 
 ## 📸 Screenshots
 *(Check out screenshots below)*
-![To_Do_Screenshot](src\Images\todo_ss.png)
+![To_Do_Screenshot](public\Images\todo_ss.png)
 
 
 ---
